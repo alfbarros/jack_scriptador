@@ -1,0 +1,503 @@
+{
+  "bloco_1": [
+    {
+      "locutor": "Especialista Clima",
+      "texto": "Nós estamos acelerando o ritmo e que nós aquecemos a média da temperatura da superfície da Terra."
+    },
+    {
+      "locutor": "Especialista Clima",
+      "texto": "Nós temos os dados compilados de 2024, que entre 2020 e 2024 nós passamos de 1,1 para 1,5 graus de temperatura média."
+    },
+    {
+      "locutor": "Especialista Clima",
+      "texto": "Ou seja, nós levamos menos de meia década para aumentar praticamente meio grau."
+    },
+    {
+      "locutor": "Especialista Clima",
+      "texto": "Isso significa que se nós mantermos esse ritmo de aquecimento logo ali, 2030, nos primeiros anos de 2002, nós vamos passar de dois graus de aquecimento."
+    },
+    {
+      "locutor": "Especialista Clima",
+      "texto": "Ponto número um Quem aquece o sistema climático da Terra somos nós, humanos, A partir das nossas condutas antrópicas, emite gases de efeito estufa."
+    },
+    {
+      "locutor": "Especialista Clima",
+      "texto": "O ponto número dois estar aquecendo vai trazer eventos climáticos extremos cada vez piores."
+    },
+    {
+      "locutor": "Especialista Energia",
+      "texto": "Claro que existem outros atores que também, digamos assim, estimulam o aquecimento global, a industrialização, o desmatamento, o uso inadequado do solo."
+    },
+    {
+      "locutor": "Especialista Energia",
+      "texto": "Mas o grande vilão, sem dúvida nenhuma representando mais de 70%, é o uso dos combustíveis fósseis."
+    },
+    {
+      "locutor": "Especialista Energia",
+      "texto": "Petróleo, gás natural, o carvão Então, no momento em que estou acelerando meu carro com motor térmico, gasolina, óleo diesel, estou contribuindo para o aquecimento global."
+    },
+    {
+      "locutor": "Especialista Energia",
+      "texto": "No momento em que eu utilizo uma termoelétrica a gás natural a carvão, estou contribuindo para o aquecimento global."
+    },
+    {
+      "locutor": "Morador Atingido (Museu)",
+      "texto": "afetou principalmente esse lado do Museu do Carvão. Tem muitas casas pra lá, um bairro considerável. São muitos."
+    },
+    {
+      "locutor": "Morador Atingido (Museu)",
+      "texto": "Tem muita gente morando para em direção a BR 290, entre a mina e a rua principal aqui."
+    },
+    {
+      "locutor": "Morador Atingido (Museu)",
+      "texto": "Então ali afetou praticamente todas as casas. Teve casas que a enchente cobriu o telhado, tanto a estrada em direção a Porto Alegre quanto a estrada caminho para Charqueadas estava interditada."
+    },
+    {
+      "locutor": "Morador Atingido (Museu)",
+      "texto": "Então a cidade ficou isolada, então não havia por nenhum meio como se chegar durante mais de 15 dias."
+    },
+    {
+      "locutor": "Morador/Mineiro",
+      "texto": "Eu acho que nós temos que cuidar o meio ambiente, mas de forma que também, por exemplo, a nossa região é uma região que nasceu do carvão."
+    },
+    {
+      "locutor": "Morador/Mineiro",
+      "texto": "Tudo o que a gente tem aqui foi do carvão, né?"
+    },
+    {
+      "locutor": "Historiador Local",
+      "texto": "era tudo muito braçal e muito rudimentar. Assim, então o uso das picaretas e o uso dos dos lampiões, auge que a gente fala em 1930 a 1940, né?"
+    },
+    {
+      "locutor": "Historiador Local",
+      "texto": "Na década de 40, mais de 80% da produção de carvão nacional em Rio Grande do Sul E os caminhos das minas foram pra baixo das ruas, das cidades."
+    },
+    {
+      "locutor": "Historiador Local",
+      "texto": "Seguidamente a gente vê quando chove muito o respirador, o poço da mina desaba e abre um buraco no meio da cidade."
+    },
+    {
+      "locutor": "Historiador Local",
+      "texto": "tantos caminhos que tem feitos pelos mineiros naquela área naquele tempo."
+    },
+    {
+      "locutor": "Historiador Local",
+      "texto": "Os trabalhadores desciam pra se distribuir entre as frentes de trabalho e realmente fazer todo o processo da extração de carvão."
+    },
+    {
+      "locutor": "Técnico Mineração",
+      "texto": "Hoje a mina, ela é a céu aberto, que a gente chama aquela mina que não faz os túneis."
+    },
+    {
+      "locutor": "Técnico Mineração",
+      "texto": "Ela escava uma grande, grande lote e vai tirando essas camadas."
+    },
+    {
+      "locutor": "Técnico Mineração",
+      "texto": "Charqueadas tinha uma que era 180 metros de profundidade, e foi até ficar em céu aberto, céu aberto, escava escavação e vai tirar o carvão."
+    },
+    {
+      "locutor": "Técnico Mineração",
+      "texto": "Chega lá no carvão. como. Tudo é muito bem feito, a recuperação eu acho que não teria problema não."
+    },
+    {
+      "locutor": "Defensor do Carvão",
+      "texto": "e as pessoas defendem uma atividade mineradora porque acreditam na geração de emprego desenvolvendo a cidade."
+    },
+    {
+      "locutor": "Defensor do Carvão",
+      "texto": "Foi o período que tinha hospital, foi o período que tinha a infraestrutura."
+    },
+    {
+      "locutor": "Crítico do Carvão",
+      "texto": "Entretanto, hoje em dia, a atividade mineradora, ela mais gera SMS do que gera emprego."
+    },
+    {
+      "locutor": "Gestor Público",
+      "texto": "estamos olhando sim para a região carbonífera."
+    },
+    {
+      "locutor": "Gestor Público",
+      "texto": "Nós temos uma grande reserva de carvão aqui no estado."
+    },
+    {
+      "locutor": "Gestor Público",
+      "texto": "Nós temos vários municípios, pessoas que dependem desta atividade contratamos um plano de transição energética justa, que vá olhar para essa pauta e que vá desenhar os caminhos da substituição ou da redução da emissão."
+    },
+    {
+      "locutor": "Gestor Público",
+      "texto": "Nessas nessas termelétrica, enfim, que fazem o uso do carvão. o carvão pra geração de energia, ele está diminuindo mundialmente."
+    },
+    {
+      "locutor": "Gestor Público",
+      "texto": "já é pequena participação a gente ter uma agenda que vá reduzindo gradualmente, mas a gente tem que ter cuidado com a transição energética dos trabalhadores também."
+    },
+    {
+      "locutor": "Gestor Público",
+      "texto": "porque a gente sabe que tem comunidades inteiras, dependendo do modelo do carvão."
+    },
+    {
+      "locutor": "Gestor Público",
+      "texto": "E elas têm que passar por um processo de capacitação. E não é só do trabalhador, é a família."
+    },
+    {
+      "locutor": "Morador Preocupado",
+      "texto": "Se eles vinha terminar com água com a mina, onde é que vem esse pessoal?"
+    },
+    {
+      "locutor": "Morador Preocupado",
+      "texto": "Onde é que vão trabalhar esse pessoal? Cada vez há mais desemprego, A região já está tão, tão pobre nessa região carbonífera que eu não sei o que é que vai ser feito."
+    },
+    {
+      "locutor": "Morador Preocupado",
+      "texto": "Por isso que essa não desligar a usina de um tudo porque eles, eles e eles sabem que vai dar um vai terminar com a cidade Candiota, por exemplo, terminado com a cidade,"
+    },
+    {
+      "locutor": "Ambientalista",
+      "texto": "Se não fossem os subsídios que o Brasil inteiro paga aos polos carvoeiros do Rio Grande do Sul e de Santa Catarina, essa atividade já estaria fora do mercado porque ela não se sustenta sozinha, por que não usar esse mesmo dinheiro para mudar o Economia dessas cidades?"
+    },
+    {
+      "locutor": "Ambientalista",
+      "texto": "É perfeitamente possível fazer isso. A gente não faz por lobby."
+    },
+    {
+      "locutor": "Ambientalista",
+      "texto": "Tem lobbies muito eficientes do carvão no Congresso Nacional."
+    },
+    {
+      "locutor": "Ambientalista",
+      "texto": "A mineração de carvão precisa acabar no Brasil."
+    },
+    {
+      "locutor": "Ambientalista",
+      "texto": "Não faz nenhum sentido no Brasil ter mineração de carvão. Tem uso de carvão. A gente subsidia o carvão."
+    },
+    {
+      "locutor": "Ambientalista",
+      "texto": "Além de ser extremamente poluente, ela é quando a gente chama fóssil e não renovável. Por que não é renovável?"
+    },
+    {
+      "locutor": "Ambientalista",
+      "texto": "Porque a taxa com que o ser humano retira do ambiente é muito mais rápido da capacidade da natureza em repor."
+    },
+    {
+      "locutor": "Ambientalista",
+      "texto": "Mas de fato, o carvão, o combustível fóssil que mais concentra carbono e, portanto, que mais produz gases de efeito estufa por unidade de energia gerada."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "nossa sociedade. Ela alcançou um nível de prosperidade e bem estar sem precedentes depois da Revolução Industrial, quando os seres humanos descobriram que queimar carvão mineral era muito mais eficiente para produzir energia do que lenha, então inventou se ali a máquina vapor no Reino Unido e toda aquela história que a gente já conhece."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "A partir do final do século XIX, começo do século XX."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "E se a o carvão mineral se soma a um outro produto que é o petróleo?"
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Fácil de transportar, altamente calórico na queima, virou a commodity mais valorizada do século XX e o petróleo hoje domina a matriz energética no mundo."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "petróleo entra na vida dela, da sociedade, da economia e da sociedade."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "No início dos anos de 1900. Antes disso, o uso de petróleo era residual."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Você tinha uma outra coisinha, que era a iluminação pública, que era feita de petróleo, mas era."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Era um uso absolutamente residual. Aí você cria uma coisa chamada motor a combustão interna."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Esse motor a combustão interna, é viciado e sedento por petróleo."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Aí você descobre que a melhor maneira de carregar combustível é gasolina e diesel."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Você faz um tanque, põe lá dentro, fecha a tampa e você carrega aquilo dentro de um veículo quando você quiser."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Você não tem que carregar lenha, não tem que carregar carvão, tem que carregar nada."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "E aí você entra num processo de massificação do uso do petróleo, Plástico e petróleo. Todo tipo de plástico."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Eu não estou falando de garrafinha de água. Eu estou falando do plástico desse computador no qual eu estou conversando, do plástico das embalagens que estão espalhadas pelo mundo, do plástico que está nos equipamentos hospitalares,"
+    }
+  ],
+  "bloco_2": [
+    {
+      "locutor": "Especialista Energia",
+      "texto": "nós temos aqui uma combinação muito valiosa de fontes renováveis, limpas e acessíveis quase 90% da matriz do Brasil de geração de energia."
+    },
+    {
+      "locutor": "Especialista Energia",
+      "texto": "Ela é limpa e a gente pode ainda aumentar com segurança energética."
+    },
+    {
+      "locutor": "Especialista Energia",
+      "texto": "Então, quais são as fontes renováveis? A água é renovável, o sol é renovável, o vento e renovável, as bioenergias."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Bom, nós temos o carvão e nós temos hídrica, então vamos apostar na hídrica, que é uma fonte mais barata."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "E aí se construir aquelas grandes contenções, grandes barragens onde se bloqueava praticamente todo o leito do rio, grandes rios e se formavam grandes lagos e aí, claro, se formar grandes lagos."
+    },
+    {
+      "locutor": "Crítico Barragens",
+      "texto": "A questão das hidrelétricas é interessante porque é um problema muito sério."
+    },
+    {
+      "locutor": "Crítico Barragens",
+      "texto": "A água é igual a energia. Quanto mais energia guardado, Ou seja, onde é que você guarda energia? Em lagos?"
+    },
+    {
+      "locutor": "Crítico Barragens",
+      "texto": "E para formar esses lagos tem que se eliminar toda uma vegetação."
+    },
+    {
+      "locutor": "Crítico Barragens",
+      "texto": "Às vezes tem cidades eliminadas do mapa para formação de lagos, para favorecer hidrelétricas, hidrelétrica, favorecerem a produção de energia e a produção de energia, viabilizar a ampliação das cidades do nosso modo de vida."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "É muita matéria orgânica, fica embaixo da água e começa a estar em estado de putrefação, Começa a apodrecer e liberar CH4 metano, que é extremamente prejudicial ao meio ambiente."
+    },
+    {
+      "locutor": "Especialista Hidro",
+      "texto": "foi na crise energética de 2000, o apagão, Então voltaram todos os velhos projetos das grandes barragens no Rio Uruguai, as barragens na Amazônia, a própria Angra três, a energia nuclear e a volta do carvão e novas usinas a carvão,"
+    },
+    {
+      "locutor": "Crítico Barragens",
+      "texto": "na Amazônia. Nós tivemos formação de lagos e mesmo assim, como se sabia pouca produção de energia então o problema que se vê hoje, a partir da criação de grandes problemas com a criação de elétricas, com o deslocamento de povos, com a formação do MST, por exemplo, que se criou a partir da instalação de hidrelétricas aqui no Brasil foi lá em Cachoeira de Paulo Afonso primeiro"
+    },
+    {
+      "locutor": "Especialista Hidro",
+      "texto": "Mas hoje, com exceção de Belo Monte. Tá, mas não se tem grandes usinas O que se tem são CGH, as centrais geradoras hídricas e as PCHs pequenas centrais hidro que geram energia elétrica e elas podem ser colocadas ao longo do rio que eles vamos assim bloqueiam parcialmente o Rio, né?"
+    },
+    {
+      "locutor": "Especialista Hidro",
+      "texto": "Então uma parte fica uma contenção lago de três, cinco quilômetros quadrados, bem pequeno e o outro deixa passar pelo lado."
+    },
+    {
+      "locutor": "Especialista Hidro",
+      "texto": "Interessantes para descentralização da energia de produção de energia. Mas tem que se ter muito cuidado que às vezes nos tem que primeiro evitar, evitar o corte de matas nativas"
+    },
+    {
+      "locutor": "Especialista Hidro",
+      "texto": "importante se ter noção de que indústria hidrelétrica se pode chamar de limpa por um lado mais, sempre questões que tem que ser resolvidas."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "já há alguns anos, a energia eólica principalmente, mas agora a energia solar, elas vem caindo muito de preço, então elas já são mais baratas que a energia hidrelétrica, inclusive, é muito, muito, muito mais baratas do que carvão e gás."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "muitas vezes durante o dia eu não tenho tanto vento, mas eu tenho o sol. Aí quando o sol se põe, aumenta o vento, Então elas terminam sendo naturalmente complementares."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "Ah, mas não dá para gerar energia eólica quando não venta, não dá pra gerar energia solar quando não tem sol, É verdade."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "Só que, como a gente tem um sistema elétrico interligado, a gente consegue de algum jeito compensar a intermitência dessas fontes, adicionando, por exemplo, usinas hidrelétricas em partes do ano e em alguns lugares do país, usinas eólicas em partes do ano em algum lugar do país."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "Isso vai compensando. o sistema nacional interligado é o nosso modelo hoje de transmissão de energia."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "Mas há alguns anos atrás já a gente viu que existem outros modelos que hoje, quando a gente fala em descentralizada, está muito focado, com solar ainda."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "hoje em dia dá para eu fazer a sua geração administrar aquela geração e dizer sim, eu sou renovável."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "Vamos pensar em coletores solares descentralizados nos telhados das casas."
+    },
+    {
+      "locutor": "Especialista Renováveis",
+      "texto": "Vamos ter também pequenas pequenos parques eólicos ou também pequenas gerações de energia descentralizada."
+    },
+    {
+      "locutor": "Crítico Eólicas",
+      "texto": "Mas no caso das eólicas, ao invés de ter alguns critérios, seja de distância, distância de áreas de conservação, de preservação de dunas, de comunidades, pelas questões, seja do ruído, seja questões mesmo de de riscos, eletrificação e tal e a qualidade de vida."
+    },
+    {
+      "locutor": "Crítico Eólicas",
+      "texto": "É como viver dentro de uma máquina, porque as turbinas são sempre girando e a sombra que elas produzem na casa, no campo, na vida das pessoas."
+    },
+    {
+      "locutor": "Crítico Eólicas",
+      "texto": "Isso é para a saúde mental As empresas de energia eólica no Brasil se comportam como os passageiros."
+    },
+    {
+      "locutor": "Crítico Eólicas",
+      "texto": "Na década de 70 se comportavam fazendo acordos leoninos com comunidades, instalando torres eólicas onde não deveria, atropelando direitos sociais, que é exatamente como se fazia hidrelétrica no Brasil antigamente."
+    },
+    {
+      "locutor": "Especialista Planejamento",
+      "texto": "tem um vento excelente, a árvore é torta, mas antes de eu botar o meu projeto, eu vou fazer uma análise de sensibilidade sócio ambiental e não se esquecendo do social."
+    },
+    {
+      "locutor": "Especialista Planejamento",
+      "texto": "O ambiental é imprescindível, mas quem vai viver é quem vai sentir por gerações, é a sociedade."
+    },
+    {
+      "locutor": "Especialista Planejamento",
+      "texto": "Então eu tenho que criar uma transição energética, mas que realmente ela vá."
+    },
+    {
+      "locutor": "Especialista Planejamento",
+      "texto": "Cada vez mais as fontes renováveis vão assumindo o seu papel de protagonista e os combustíveis fósseis vão sendo deixados de ser utilizados,"
+    },
+    {
+      "locutor": "Especialista Mobilidade",
+      "texto": "O nosso problema de combustíveis fósseis é principalmente no setor de transporte."
+    },
+    {
+      "locutor": "Especialista Mobilidade",
+      "texto": "a mobilidade urbana, o ir e vir da cidade com o transporte motorizado representa 67% das emissões de gases de efeito estufa em Porto Alegre."
+    },
+    {
+      "locutor": "Especialista Mobilidade",
+      "texto": "Hoje, a grande e a grande virada paradigmática é a ideia do transporte elétrico."
+    },
+    {
+      "locutor": "Especialista Mobilidade",
+      "texto": "se eu pensar no Brasil, que tem uma matriz energética limpa, parceiro, carro do motor elétrico, é fantástico."
+    },
+    {
+      "locutor": "Especialista Mobilidade",
+      "texto": "Então, toda essa frota de veículos que transitam por aí, por exemplo, de aplicativo, se fossem elétricos, estariam emitindo muito menos CO2"
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "É A questão ambiental é completamente entendida, mas simplesmente as pessoas não estão fazendo a mudança. 20 anos atrás."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "Para mim parecer completamente claro que não tinha futuro nenhum a indústria do petróleo."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "Mas o que nós estamos vendo é a expansão da indústria do petróleo."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "Existe uma tensão hoje no Brasil entre o explorar ou não explorar as nossas reservas de petróleo em áreas sensíveis como na Amazônia, assim como já exploramos."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "o Brasil e os países em desenvolvimento, eles têm o direito de ainda usar algum combustível fóssil nas próximas décadas, não de expandir a sua produção, mas de usar combustível fóssil, de explorar o que a gente já tem aberto."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "Mas os países hoje desenvolvidos precisam fazer essa transição muito mais rápido."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "no caso de países como Brasil, a gente só tem vantagens em acelerar essa transição."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "Tem toda uma outra questão, principalmente com petróleo, que é de dar renda, petróleo a petróleo, que a gente não usa, a gente exporta e hoje virou já o principal produto da exportação do Brasil."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "Então, como fazer a transição no Brasil? É -1 questão daquilo que a gente vai precisar para nos abastecer para a nossa matriz."
+    },
+    {
+      "locutor": "Especialista Geopolítica",
+      "texto": "É mais uma questão de como é que a gente faz para substituir um produto tão importante na geração de renda, principalmente exportações"
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "Além disso, Somente o desmatamento nas florestas tropicais estima se que gere em torno de 10% dos gases de efeito estufa do mundo."
+    },
+    {
+      "locutor": "Historiador Energia",
+      "texto": "E no caso do Brasil, isso chega a mais de 40%, quase, quase 50."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "A gente não sabe onde é que a gente vai chegar em 2050 para que a gente tenha uma chance de maior, de mais de 50% de limitar o aquecimento global a um grau e meio."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "A gente precisa chegar em 2050 com zero emissão liquida."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "Significa que tudo que a humanidade emitir de gases de efeito estufa e de desmatamento de desmatamento seja uma coisa do passado nos próximos anos."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "Mas tudo que a humanidade emitir, principalmente por uso de energia, vai ter que ser sequestrado de alguma maneira ou por captura direta da atmosfera, ou por captura de SO2 em usinas fósseis ou por captura de SO2, em usinas de biomassa e de etanol ou por plantio de árvores."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "A maior tecnologia que a gente tem disponível, que a humanidade tem acesso e disponível para enfrentar a mudança do clima e a natureza."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "Essencialmente, é plantar árvores, preservar áreas de nascentes e encostas, fazer o planejamento urbano territorial adequado, a legislação a mais criteriosa possível."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "Ou seja, se a gente quer buscar uma economia, digamos, mais harmônica com com a natureza, que vai emitir menos gases de efeito estufa, a gente tem que rever mais profundamente esse modelo de produção com produtos mais essenciais."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "Neste momento o cenário é muito pouco auspicioso."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "As emissões do mundo precisariam estar caindo sete ou 8% ao ano já desde antes da pandemia, a pandemia arrebentou a economia mundial."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "A gente conseguiu derrubar emissões durante aquele ano de 2020 em 5%. Então o nosso, o nosso drama."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "É muito dramático. A nossa situação é muito séria. O que a gente não parece estar fazendo, o esforço necessário."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "Os países não estão fazendo suas necessário. É como se eles de novo estivessem apostando no caos ou apostando que algum milagre tecnológico vai aparecer daqui a um ano."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "Dois Que o que vai nos permitir sequestrar emissões e sequestrar carbono e limitar as emissões. Não existe milagre."
+    },
+    {
+      "locutor": "Especialista Final",
+      "texto": "A gente precisa é fazer a nossa lição de casa. A gente não está fazendo."
+    }
+  ],
+  "justificativa": "Roteiro corrigido e fundido."
+}
